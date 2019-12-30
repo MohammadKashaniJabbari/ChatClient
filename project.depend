@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1577532555 source:d:\university\98-99 fall\fundamentals of programming\project\project\main.c
+	<stdio.h>
+	<stdlib.h>
+	"cJSON.h"
+	"winsock2.h"
+	"string.h"
+	"cJSON.c"
+
+1423841002 d:\university\98-99 fall\fundamentals of programming\project\project\cjson.h
+
+1423841090 d:\university\98-99 fall\fundamentals of programming\project\project\cjson.c
+	<string.h>
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+	<float.h>
+	<limits.h>
+	<ctype.h>
+	"cJSON.h"
+
